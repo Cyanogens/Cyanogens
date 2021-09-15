@@ -8,5 +8,5 @@
 
 I just have a goal——Make myself powerful
 
-**The infinite progress! **
+**The infinite progress!**
 
