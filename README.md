@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Cyanogens
 - 👀 I’m interested in coding, playing games, sport, etc.
-- 🌱 I’m currently learning Java, including but not limited to SSM, spring boot, redis, etc.
+- 🌱 I’m currently learning Java, including but not limited to SSM, spring boot, mybatis, redis, etc.
 
 - 🔭 I’m currently studying in a unknown university
 
